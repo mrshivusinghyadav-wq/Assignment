@@ -23,16 +23,16 @@ The goal is to showcase how Excel can be used to clean, analyze, and visualize d
 3. Explore each assignment and its solution to understand the applied concepts.
 4. Use the files as references for learning or practice.
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 - Transform raw data into meaningful insights.
 - Apply Excel’s advanced features for analysis.
 - Build professional, interactive dashboards.
 - Strengthen formula-writing and data manipulation skills.
 - Ensure data accuracy and integrity with validation rules.
 
-##📌 Author
+## 📌 Author
 👤 Shivansh (Venom-Shivu)
 Passionate about Excel dashboards, data visualization, and user-friendly analysis tools.
 
-##📜 License
+## 📜 License
 This project is for educational purposes. Feel free to reference or adapt with proper attribution.
