@@ -9,9 +9,10 @@ The goal is to showcase how Excel can be used to clean, analyze, and visualize d
 ## 🚀 Key Skills Demonstrated
 - Logical Functions (IF, AND, OR, NOT)  
 - Lookup Functions (VLOOKUP, HLOOKUP, INDEX, MATCH)  
-- Pivot Tables & Slicers  
+- Pivot Tables & Slicers (Grouping, Slicers, Timelines, Summarization)  
 - Text Functions (LEFT, RIGHT, MID, CONCAT, etc.)  
-- Data Validation Rules  
+- Data Validation Rules ((Whole Number, Decimal, List, Date, Time, Text Length, Custom Formula)
+- Advanced Data Visualization ( Pivot tables, slicers, charts and Dashboard )  
 
 ---
 
