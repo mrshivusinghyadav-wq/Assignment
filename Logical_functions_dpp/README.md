@@ -106,8 +106,9 @@ The file is designed for hands-on practice and experimentation.
 
 ## 👤 Author
 
-**Shivansh Yadav (Venom-Shivu)**  
+**Shivansh Yadav**  
 Focus: *Clarity, collaboration, and visual polish in technical learning.*
 
 ---
+
 
