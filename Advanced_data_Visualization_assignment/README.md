@@ -72,7 +72,7 @@ Each question is listed with the complete task and a concise summary of the step
 
 Here is the snapshot of the final dashboard:
 
-![Dashboard Snapshot](./Advanced_data_Visualization_assignment/Snapshot.jpeg)
+![Dashboard Snapshot](./Snapshot.jpeg)
 
 ---
 
@@ -89,3 +89,4 @@ Here is the snapshot of the final dashboard:
 Prepared by **Shivansh Yadav (Venom-Shivu)**  
 
 Focus: Clarity, collaboration, and visual polish in technical learning.
+
