@@ -40,7 +40,7 @@ The purpose is simple: **demonstrate practical Excel skills for cleaning, analyz
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Venom-Shivu/Assignment-PW/edit/main/EXCEL-ASSIGNMENT.git
+   git clone https://github.com/Venom-Shivu/Assignment-PW/tree/main/EXCEL-ASSIGNMENT.git
    ```
 2. Open the Excel files using Microsoft Excel (desktop recommended).
 3. Review each assignment alongside its solution.
