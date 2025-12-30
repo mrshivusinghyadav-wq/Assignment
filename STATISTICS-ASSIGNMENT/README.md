@@ -1,46 +1,31 @@
 # 📊 Statistics Assignments
 
-![Statistics Banner](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![Statistics Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Statistics%20Assignments&fontSize=42&fontColor=ffffff&desc=Practice%20Assignments%20for%20Data%20Analysis&descSize=18&descAlignY=65)
 
-This master folder contains **all statistics-related practice assignments** compiled as part of structured learning in **Statistics for Data Analysis (DA)**.
+This master folder contains **all statistics-related practice assignments** focused on applying  
+**statistical concepts relevant to Data Analysis (DA)**.
 
-The purpose of this repository is to **practice, apply, and reinforce statistical concepts** through problem-solving and assignments.  
-It is **not a tutorial repository**, but a collection of evaluated and practice-based work.
+The content here is strictly for **practice, coursework, and evaluation**.  
+It is **not a tutorial repository**, but a structured collection of assignments.
 
 ---
 
-![Data Analysis Banner](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png)
-
-## 📁 Folder Structure & Purpose
+## 📁 Folder Overview
 
 - Each subfolder represents a **separate statistics assignment or topic**
-- Assignments focus on **concept application**, not theory repetition
-- Solutions are written clearly to reflect **understanding and reasoning**
-- Documentation files contain **detailed questions, answers, and explanations** where required
-
-This structure allows easy navigation and organized submission of statistical work.
+- Work focuses on **concept application and interpretation**
+- Detailed questions, answers, and explanations are included inside
+  the respective folders or documentation files
 
 ---
 
 ## 📂 Coverage Areas
 
-The assignments collectively cover core areas of statistics relevant to data analysis:
-
 - Descriptive Statistics  
-- Probability & Probability Distributions  
+- Probability & Distributions  
 - Inferential Statistics  
 - Hypothesis Testing  
-- Correlation and Regression  
-
-> Detailed problem statements, solutions, and explanations are available inside the respective assignment folders or supporting documentation files.
-
----
-
-## 📌 Notes
-
-- This repository is intended for **practice, coursework, and evaluation**
-- Content is structured to align with **Data Analyst learning requirements**
-- Focus is on **correct interpretation and application of statistical concepts**
+- Correlation & Regression  
 
 ---
 
@@ -48,4 +33,3 @@ The assignments collectively cover core areas of statistics relevant to data ana
 
 **Shivansh Yadav**  
 🔗 LinkedIn: https://www.linkedin.com/in/the-venom
-
