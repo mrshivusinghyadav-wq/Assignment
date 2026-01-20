@@ -30,10 +30,9 @@ All assignments in this repository are **property of PW Skills** and are shared 
 
 ### 🔹 Currently Covered
 - **Excel for Data Analytics**
-- **Statistics for Data Analytics** *(ongoing)*
-
+- **Statistics for Data Analytics** 
+- **MySQL** *(ongoing)*
 ### 🔹 Upcoming Coverage
-- **MySQL**
 - **Power BI**
 - **Tableau**
 - **Python for Data Analytics**
